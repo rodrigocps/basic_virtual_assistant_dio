@@ -60,7 +60,7 @@ Certifique-se de ter o **Python** e o **Anaconda** (opcional, mas recomendado) i
 Abra o seu terminal e instale as bibliotecas necessárias executando o seguinte comando:
 
 ```bash
-pip install SpeechRecognition gTTS wikipedia pyjokes pygame pyaudio
+pip install -r requirements.txt
 ```
 
 Obs: A instalação do pyaudio pode requerer passos adicionais dependendo do seu sistema operacional (especialmente no Windows ou Linux). Caso encontre erros, verifique a documentação do PyAudio.
